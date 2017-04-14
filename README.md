@@ -124,7 +124,9 @@ show dbs
 - pm2 restart [id] 重启项目
 - pm2 restart all ==重启所有进程==
 - pm2 monit ==监视所有进程==
-![](https://img1.doubanio.com/view/note/large/public/p10140518.jpg)
+
+![pic](https://img1.doubanio.com/view/note/large/public/p10140518.jpg)
+
 - pm2 logs ==显示所有进程的日志==
 - pm2 stop all ==停止所有进程==
 
