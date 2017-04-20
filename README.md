@@ -69,6 +69,10 @@ server_name chat.lishangxi.cn; #域名
 
 ### 启动mongodb
 
+#### 端口
+
+`启动端口在 57*47`
+
 > mongodb安装位置 /usr/local/mongodb
 
 > ==手动启动 /usr/local/mongodb/bin/mongo== 
