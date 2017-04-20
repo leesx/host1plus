@@ -206,6 +206,14 @@ chmod +x shadowsocks.sh
 > linux 下
 ` export NODE_ENV = production `
 
+### CentOS7安装firewalld
+
+```
+sudo yum install firewalld # installs firewalld
+sudo systemctl enable firewalld # enables firewalld to run on boot
+sudo systemctl start firewalld # starts firewalld
+```
+
 ### CentOS7使用firewalld打开关闭防火墙与端口
 
 ```
